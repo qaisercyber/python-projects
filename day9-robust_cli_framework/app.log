@@ -1,0 +1,4 @@
+2026-01-11 12:13:29,757 - ERROR - Invalid numeric input.
+2026-01-11 12:13:48,116 - ERROR - Division by zero is not allowed.
+2026-01-11 12:17:15,110 - ERROR - Name cannot be empty.
+2026-01-11 12:17:16,254 - ERROR - Unknown command: 
